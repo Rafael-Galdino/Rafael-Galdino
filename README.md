@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Rafah46/Rafah46/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Rafael-Galdino/Rafael-Galdino/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -17,7 +17,7 @@
   <a href="mailto:rafa46.henrique@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="Rafah46" target="_blank">
+  <a href="Rafael-Galdino" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
@@ -61,8 +61,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafah46&radius=16&theme=gotham&area=true&order=5" height="250" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafah46&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafael-Galdino&radius=16&theme=gotham&area=true&order=5" height="250" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafael-Galdino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafah46&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
